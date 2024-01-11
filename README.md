@@ -1,8 +1,8 @@
 # Bachelor's thesis
 # Sentiment analysis based on multifractal methods
-***
 
-**Sentiment** analysis is crucial for decision-making in corporate platforms and for users. Traditional techniques face limitations, such as low prediction accuracy, large training datasets, and computational inefficiency. Our work addresses these limitations by applying multifractal methods combined with machine learning techniques, reducing data requirements while preserving accuracy.
+
+Traditional techniques of **sentiment** analysis  face limitations, such as low prediction accuracy, large training datasets, and computational inefficiency. Our work addresses these limitations by applying multifractal methods combined with machine learning techniques, reducing data requirements while preserving accuracy.
 The **aim** of this project is to develop algorithmic and software for solving the sentiment analysis problem of user comments based on **multifractal methods** and **machine learning** approaches.
 ---
 The **RuReviews** corpus consisting of approximately 19,000 user reviews of the online women's clothing store was used as input data. Positive and negative emotions were used as labels.  **Embedding methods** are used to represent words as vectors that reflect the unique features of words and the semantic relationship between them. By averaging these vectors in a sentence, one can obtain a vector representation of the sentence that reflects its meaning. 
